@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kvinlazy/ExData_Plotting1/master?filepath=index.ipynb)
+
+
 ## Introduction
 
 This assignment uses data from
